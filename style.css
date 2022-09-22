@@ -1,0 +1,157 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background: #000;
+}
+.container {
+  width: 1138px;
+  margin: 0 auto;
+}
+ul {
+  justify-content: center;
+  display: flex;
+}
+li {
+  margin-left: 30px;
+  list-style-type: none;
+  color: white;
+}
+#right_item {
+  margin-left: 25px;
+}
+#top_heading {
+  margin: -9px auto;
+  font-weight: lighter;
+  color: white;
+  font-size: 50px;
+  font-family: prata;
+}
+.Top_Paragraph {
+  color: grey;
+  width: 56%;
+  font-family: Inter;
+  font-size: 18px;
+}
+.Logo_section {
+  margin-top: 77px;
+  display: flex;
+  justify-content: space-between;
+}
+.right_heading {
+  color: white;
+  font-family: prata;
+}
+.gallerySection {
+  gap: 44px;
+  margin-top: 77px;
+}
+.right_paragraph {
+  font-family: Inter;
+  color: gray;
+  width: 555px;
+  font-size: 19px;
+}
+.left_heading {
+  font-family: prata;
+  color: white;
+}
+.gallerySection {
+  display: flex;
+}
+.paragraph_left {
+  font-family: Inter;
+  width: 563px;
+  font-size: 19px;
+  color: grey;
+}
+
+/* .Second_Article{
+    background-color: Grey;
+    width: 100%;
+    height: 600px;
+} */
+.Second_Article_heading {
+  color: white;
+}
+.Second_Article {
+  display: flex;
+}
+.Left_Content_Paragraph {
+  color:grey;
+}
+.Second_Article_paragraph {
+  color: white;
+}
+.Last_Section_heading {
+  color: white;
+}
+.Last_section_paragraph {
+  font-family: Inter;
+  color: grey;
+}
+.Last_Section_Button {
+  background: #fff36d;
+  padding: 16px 28px;
+}
+.Last_Section_Content {
+  height: 260px;
+  padding-top: 40px;
+  width: 31%;
+  /* padding: 0px 48px; */
+  margin-left: 223px;
+}
+.Footer_Heading {
+  width: 50%;
+  background: Grey;
+  padding-left: 48px;
+  font-size: 14px;
+}
+.Footer_Icons{
+  background: Grey;
+  width: 50%;
+  height: 37px;
+  padding-right: 250px;
+  text-align: end;
+  padding-top: 8px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+/*-----*/
+
+.Box {
+  display: flex;
+  background: #343434;
+  width: 100%;
+  height: 420px;
+}
+.Right_Section {
+  margin-left: 25px;
+  width: 50%;
+}
+.Left_Section {
+  margin-right: auto;
+  width: 50%;
+}
+.Right-Section_Content {
+  margin-left: 187px;
+  margin-top: 34px;
+  width: 61%;
+  font-family: Inter;
+  color: grey;
+}
+.Left_Section_Content {
+  font-family: "Inter";
+  color: grey;
+  width: 61%;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.Right_Section_Heading {
+  color: white;
+  font-family: prata;
+  font-weight: lighter;
+}
